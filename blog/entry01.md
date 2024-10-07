@@ -1,5 +1,5 @@
-# Entry 1
-##### X/X/XX
+# Entry 1 : My topic
+##### 10/7/24
 
 Text
 
