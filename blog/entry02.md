@@ -24,15 +24,18 @@ After seeing the options I had found i decided to focus mostly on 3 robotics,BIM
 <li>Architecture students learning about robots in constructions https://news.njit.edu/architecture-students-learning-about-robots-construction</li>
 </ul>
 
-###Augmented reality/Virtual reality
+### Augmented reality/Virtual reality
 <ul>
 <li>A technology that lays a computer-generated image on a user's view of the real world, thus providing a composite view.</li>
  <li>Virtual reality may improve communication and understanding between the client and architect.
 https://blogs.salleurl.edu/en/vr-applications-construction-new-architecture
 </ul>
-BIM
-.  BIM= Building Information Modeling: A technology that uses 3D models and digital data to manage information of a building.
-Software program to help with BIM https://www.vectorworks.net/en-US/architect
+
+### BIM
+<ul>
+<li>BIM= Building Information Modeling: A technology that uses 3D models and digital data to manage information of a building.</li>
+<li>Software program to help with BIM https://www.vectorworks.net/en-US/architect</li>
+</ul>
 
 
 [Previous](entry01.md) | [Next](entry03.md)
