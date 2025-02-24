@@ -1,7 +1,15 @@
 # Entry 4
-##### X/X/XX
+##### 2/24/25
 
-Text
+### Context
+
+### EDP
+
+### Content
+
+### Skills 
+
+### Summary 
 
 [Previous](entry03.md) | [Next](entry05.md)
 
