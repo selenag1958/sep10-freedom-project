@@ -19,6 +19,8 @@ There are many properties you can add to your grid to make it according to your 
 ### Skills
 This process allowed me to learn how to learn a topic on my own because we had to learn how to use a tool and also try coding with that tool in order to practice. We had to use the resources given to us or had to look for our own resources whether that be videos, examples, or websites in order to learn and put to practice the code we learned. We were in charge of understanding the basics of our tool and what they work for.
 While learning from css grid I was able to create a grid:
+![image text, optional](image URL)
+
 
 ### Summary
 During this process of the freedom project my takeaway is that I was able to start learning how to teach myself a topic and learn on my own. This skill will help me not only with the freedom project but in other aspects of my life, in any class or subject that I may struggle in I will be able to learn on my own and help myself improve.
