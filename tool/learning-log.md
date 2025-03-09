@@ -5,7 +5,10 @@
 ---
 
 ### 3/8/25:
-* 
+* Since I already have a small introduction to grids and what I have been learning in bootstrap using css grid properties I want to try making a template similar to one I saw in canva by code.
+* Canva Template:
+(![Canva](https://github.com/user-attachments/assets/bf382f8d-bd80-4665-938a-35068bd05c36)
+)
 
 ### X/X/XX:
 * Text
