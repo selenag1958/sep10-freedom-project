@@ -26,8 +26,16 @@
   ```
 * I think this property will be useful in spacing out my content so that everything isn't so close to each other. So that both images and text have space.
 
-### X/X/XX:
-* Text
+### 3/10/25:
+* Gap property is all around an item to be more specific you can use:
+
+   * colum-gap
+   * row-gap
+   * This allows you to be more specific.
+  ##### Column Gap:
+  
+
+  ##### Row Gap: 
 
 
 <!-- 
