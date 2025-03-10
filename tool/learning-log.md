@@ -34,6 +34,15 @@
    * This allows you to be more specific.
   ##### Column Gap:
   
+   ```css
+   .container {
+  display: grid;
+  column-gap: 50px;
+  grid-template-columns: auto auto auto;
+  background-color: #FFEBCD;
+  padding: 10px;
+}
+    ```
 
   ##### Row Gap: 
 
