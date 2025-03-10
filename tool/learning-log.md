@@ -33,6 +33,8 @@
    * row-gap
    * This allows you to be more specific.
   ##### Column Gap:
+  ![Column Gap](https://github.com/user-attachments/assets/d5d969e5-dc87-4140-9dba-32b72a17809c)
+
   
    ```css
    .container {
@@ -40,11 +42,11 @@
   column-gap: 50px;
   grid-template-columns: auto auto auto;
   background-color: #FFEBCD;
-  padding: 10px;
-}
-    ```
+  padding: 10px;}
+   ```
 
-  ##### Row Gap: 
+  ##### Row Gap:
+  
 
 
 <!-- 
