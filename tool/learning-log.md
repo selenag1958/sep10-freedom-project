@@ -9,6 +9,8 @@
 * One property is creating gaps in between your columns.
 * The gap property allows you to add space between your rows AND columns.
   Ex: without the gaps
+  ![Code example](https://github.com/user-attachments/assets/6be527c7-ec1e-4a7b-937b-bf7cfa4e5a4c)
+
 
 ### X/X/XX:
 * Text
