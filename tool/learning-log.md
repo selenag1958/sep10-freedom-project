@@ -10,6 +10,20 @@
 * The gap property allows you to add space between your rows AND columns.
   Ex: without the gaps
   ![Code example](https://github.com/user-attachments/assets/6be527c7-ec1e-4a7b-937b-bf7cfa4e5a4c)
+  
+  With the gap property:
+  ![Code example](https://github.com/user-attachments/assets/f20dee4d-c913-4850-b5ce-b4a76ccbd38f)
+  
+  Code used :
+  ```css
+  .container {
+  display: grid;
+  gap:50px;
+  grid-template-columns: auto auto auto;
+  background-color: #FFEBCD;
+  padding: 10px;
+  }
+  ```
 
 
 ### X/X/XX:
