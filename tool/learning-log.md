@@ -24,7 +24,7 @@
   padding: 10px;
   }
   ```
-
+* I think this property will be useful in spacing out my content so that everything isn't so close to each other. So that both images and text have space.
 
 ### X/X/XX:
 * Text
