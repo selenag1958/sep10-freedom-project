@@ -46,7 +46,47 @@
    ```
 
   ##### Row Gap:
+  ![Row Gap](https://github.com/user-attachments/assets/6a989f17-5575-41c3-bf14-ee0f8de1ba95)
+  ```css
+  .container {
+  display: grid;
+  row-gap: 50px;
+  grid-template-columns: auto auto auto;
+  background-color: rgb(205, 98, 93);
+  padding: 10px;
+  }
   
+   ```
+
+ ### 3/16/25: 
+ As I continue to see how I can format a grid and how I can make it to a design I like I learned about another way i can edit each grid item.The column start and end property is as its name suggest you can state where you want your column to start and where you want your column to end.
+
+ <img width="452" alt="image" src="https://github.com/user-attachments/assets/887cb198-b2ce-4100-9ffb-96e1c9485ff6" />
+ 
+  ```css
+  .item1 {
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+  ```
+
+* By adding `column-end: 3;` it means that the end of the column was at the beginning of column 3
+* If you had written `column-start: 2;` and `column-end: 4;` it would remove the first item in column 1 and extend until the end of the first row.
+
+![Screenshot 2025-03-16 230429](https://github.com/user-attachments/assets/3d13fcab-7099-4668-b649-2d85bc90378e)
+
+  
+* Code :
+  ```css
+  .item1 {
+  grid-column-start: 2;
+  grid-column-end: 4;
+  }
+
+ ```
+
+
+ 
 
 
 <!-- 
