@@ -82,8 +82,32 @@
   grid-column-start: 2;
   grid-column-end: 4;
   }
+  ```
+ ### 3/17/25:
+ To continue my previous code, of course not only can you edit the column start and grid but also the rows start and end.
 
- ```
+![Screenshot 2025-03-17 174742](https://github.com/user-attachments/assets/88f03029-8353-411e-a9bd-c01e2031cfcb)
+
+ ##### Code :
+  ```css
+.item1 {
+  grid-row-start: 1;
+  grid-row-end: 3;
+}
+  ```
+  * similar to the other code `start:1;` and `end:3;` shows which row you want to start in and which row to end.
+  * if we also change it to  `start:2;` and `end:4;` it will change the row to take up from the second row to the bottom
+
+![Screenshot 2025-03-17 180447](https://github.com/user-attachments/assets/d9639d8d-5168-4a5a-8eb6-d87fee1393b3)
+ ##### Code :
+
+  ```css
+ .item1 {
+  grid-row-start: 2;
+  grid-row-end: 4;
+}
+  ```
+
 
 
  
