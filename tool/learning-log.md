@@ -107,7 +107,10 @@
   grid-row-end: 4;
 }
   ```
+ ### 3/24/25:
+While the row and column gap can be useful, there is another way to do it only using one line of code.
 
+ That's the `grid-column` and  `grid-row` property which allows you to state where you want your row or column at beginning or end.
 
 
  
