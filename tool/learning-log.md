@@ -158,7 +158,9 @@ After learnign different code which can help me adjust and customize a grid to m
  . The ending is made with  `grid-column: 1 / span 3;`
 
  Then we could simply add content, since this is just example and for learning I am going to add random context.
- 
+ ![flower-grid](https://github.com/user-attachments/assets/1d595f3f-a0e8-4f43-bc72-283851361320)
+ #### After adding content this us the result
+
  
 
 
