@@ -112,7 +112,53 @@ While the row and column gap can be useful, there is another way to do it only u
 
  That's the `grid-column` and  `grid-row` property which allows you to state where you want your row or column at beginning or end.
 
+### 3/28/25:
+After learnign different code which can help me adjust and customize a grid to my liking i want to try addingthem all together and making a grid adding different items in various sizes.
 
+ First a used the css grid to make a format
+ ![grid format](https://github.com/user-attachments/assets/eda367da-7306-471f-a2cf-c7b361c1db69)
+
+ ##### CSS Code 
+   ```css
+ .grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 10px;
+  background-color:#dda0dd
+;
+  padding: 10px;
+}
+
+.grid-container > div {
+  background-color: white;
+  color:black;
+  padding: 10px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.item1 {
+  grid-column: 1 / span 2;
+}
+
+.item2 {
+  grid-column: 3;
+  grid-row: 1 / span 2;
+}
+
+.item5 {
+  grid-column: 1 / span 3;
+}
+```
+
+ The CSS grid allows me to create simple formats which can be helpful when planning how to format a website or project.
+ . The `gap: 10px;` is used to add space between them
+ . The heading is made with  `grid-column: 1 / span 2;` 
+ . Image is made with `  grid-column: 3;` and `grid-row: 1 / span 2;`
+ . The ending is made with  `grid-column: 1 / span 3;`
+
+ Then we could simply add content, since this is just example and for learning I am going to add random context.
+ 
  
 
 
