@@ -161,13 +161,19 @@ After learnign different code which can help me adjust and customize a grid to m
  ![flower-grid](https://github.com/user-attachments/assets/1d595f3f-a0e8-4f43-bc72-283851361320)
  #### After adding content this us the result
 
-### Date: 4/7/25
-Using all previous knowledge of grids I have made this grid using:
+### Date: 4/8/25
+##### Justify
 <ul>
-  <li>span</li>
-  <li>gap</li>
-  <li>grid-item</li>
+  <li>justify-self</li>
+  <li>justify-items</li>
+  <justify-content
 </ul>
+
+#### justify-self
+
+#### justify-items
+
+#### justify-content
  
 
 
