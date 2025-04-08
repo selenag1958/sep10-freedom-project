@@ -162,18 +162,18 @@ After learnign different code which can help me adjust and customize a grid to m
  #### After adding content this us the result
 
 ### Date: 4/8/25
-##### Justify
+#### Justify
 <ul>
   <li>justify-self</li>
   <li>justify-items</li>
-  <justify-content
+  <li>justify-content</li>
 </ul>
 
-#### justify-self
+##### justify-self
 
-#### justify-items
+##### justify-items
 
-#### justify-content
+##### justify-content
  
 
 
