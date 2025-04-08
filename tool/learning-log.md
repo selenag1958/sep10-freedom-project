@@ -162,19 +162,38 @@ After learnign different code which can help me adjust and customize a grid to m
  #### After adding content this us the result
 
 ### Date: 4/8/25
-#### Justify
 <ul>
   <li>justify-self</li>
   <li>justify-items</li>
-  <li>justify-content</li>
+  <li>justify-area</li>
 </ul>
 
 ##### justify-self
-
+`justify-self` aligns items along the row axis.
 ##### justify-items
+`justify-items` also helps align items along the row axis however they are also used with the following values:
+<ul>
+  <li>auto</li>
+  <li> start- at the start of the grid item box</li>
+  <img src = "https://css-tricks.com/wp-content/uploads/2018/11/justify-items-start.svg" height=200 width =200>
+  <li> end - at the end of the grid item box </li>
+  <img src= "https://css-tricks.com/wp-content/uploads/2018/11/justify-items-end.svg" height = 200 width = 200>
+  <li> center - in the center of the grid item box </li>
+  <img src= "https://css-tricks.com/wp-content/uploads/2018/11/justify-items-center.svg" height = 200 width =200>
+  <li> stretch - extends all throughout the grid item boxes </li>
+  <img src = "https://css-tricks.com/wp-content/uploads/2018/11/justify-items-stretch.svg" height = 200 width = 200>
+</ul>
 
-##### justify-content
- 
+##### grid-area
+
+`grid-area` is a short way of using `grid-row strart` + `grid-column start`+ `grid-row end` + `grid-column end`.   
+
+##### place-self
+`place-self` is using both `align-self` and `justify-self` together in one.
+
+For example `place-self: center stretch;` creates : 
+
+<img src = "https://css-tricks.com/wp-content/uploads/2018/11/place-self-center-stretch.svg" height= 200 width= 200>
 
 
 <!-- 
