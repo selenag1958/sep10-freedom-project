@@ -195,7 +195,10 @@ For example `place-self: center stretch;` creates :
 
 <img src = "https://css-tricks.com/wp-content/uploads/2018/11/place-self-center-stretch.svg" height= 200 width= 200>
 
-
+### 4/9/25
+##### place-content
+`place-content` connects `align-content` and `justify-content` into one.
+`place-content` is written in this format: `align-content`/`justiffy-content`
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
