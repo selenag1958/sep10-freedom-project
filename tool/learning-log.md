@@ -199,6 +199,9 @@ For example `place-self: center stretch;` creates :
 ##### place-content
 `place-content` connects `align-content` and `justify-content` into one.
 `place-content` is written in this format: `align-content`/`justiffy-content`
+
+##### subgrid
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
