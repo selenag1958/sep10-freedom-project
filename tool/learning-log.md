@@ -201,7 +201,7 @@ For example `place-self: center stretch;` creates :
 `place-content` is written in this format: `align-content`/`justiffy-content`
 
 ##### subgrid
-
+A subgrid is when a grid-item has their own grid lines.
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
