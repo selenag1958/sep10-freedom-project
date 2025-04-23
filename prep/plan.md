@@ -10,7 +10,9 @@
 * `484D6D`
 
 ## Fonts
-* [Text](URL)
+* [Tinos](https://fonts.google.com/selection?categoryFilters=Feeling:%2FExpressive%2FBusiness)
+* [Spectral](https://fonts.google.com/selection?categoryFilters=Feeling:%2FExpressive%2FBusiness)
+* []()
 
 ## Timeline
 
