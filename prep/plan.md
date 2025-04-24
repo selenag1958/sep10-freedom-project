@@ -5,9 +5,11 @@
 * [Desktop]()
 
 ## Colors
-* `224, 225, 221`
-* `250, 248, 221`
-* `484D6D`
+*`#8A70A9`
+*`#E0E1DD`
+*`#D9DEFF`
+*`#B4A7D3`
+*`#FFFFEE`
 
 ## Fonts
 * [Tinos](https://fonts.google.com/selection?categoryFilters=Feeling:%2FExpressive%2FBusiness)
