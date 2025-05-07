@@ -17,8 +17,8 @@
 * [IBM Plex Serif](https://fonts.google.com/specimen/IBM+Plex+Serif)
 
 ## Timeline
-1 : Add the content 
-<ul> 
+1 : Add the content
+<ul>
   <li>navbar</li>
   <li>context</li>
   <li>part A</li>
@@ -48,7 +48,8 @@
 #### Beyond MVP
 
 * add color
-* add footer
+* add color to the footer
+* fix navbar
 * make sure everything is well aligned
 
 
