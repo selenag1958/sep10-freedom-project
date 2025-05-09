@@ -1,5 +1,5 @@
 # Entry 6
-##### X/X/XX
+##### 5/7/25
 
 ### EDP
 We have just finished our MVP which stands for minimum viable product which means a product that still serves its purpose even if there is room for improvement it still gets the job done.
@@ -29,7 +29,7 @@ While making my MVP adding all code, one of my biggest struggles was adding the 
 ![Screenshot 2025-05-08 200002](https://github.com/user-attachments/assets/84b0844b-55bb-4b2b-b38e-337b3bb27724)
 
 ### Skills
-Although it may seem basic, one of the skills I learned while making the MVP was actually patience. I really needed patience while making the MVP, I learned to continue despite my multiple fails while making the accordion. I took longer than I had hoped making the gallery and accordion in Part A however that taught me to be patient and get less frustrated, double checking where I may have made a mistake and fixed it.
+Although it may seem basic, one of the skills I learned while making the MVP was actually patience. I really needed patience while making the MVP, I learned to continue despite my multiple fails while making the accordion. It took longer than I had hoped to make the gallery and accordion in Part A. However, that taught me to be patient and get less frustrated, double checking where I may have made a mistake and fixing it.
 
 ### Summary
 Overall in this part of the process I learned the importance of patience and an MVP. An MVP in my opinion is almost like a fake deadline for one, to have a functional page even if it isn't perfect but something that still works to serve its purpose. Similar to a bike and car they both get you to places however one can be faster,function, and better than the other. Patience is a skill everyone needs and it is useful in all areas of your life.
