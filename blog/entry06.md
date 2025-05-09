@@ -26,6 +26,8 @@ In my MVP I added everything important that needed to be in my project except I 
 ### Challenges
 While making my MVP adding all code, one of my biggest struggles was adding the accordion for each grid item. I used a grid to add a gallery for part A, each image has an accordion in order to add information about each innovation while taking less space.However adding the accordion came with multiple struggles, either the accordion was too long and took to much space or it opened the same time as others, but at the end I managed to fix the problem, it wasn't perfect but it was functional.
 
+![Screenshot 2025-05-08 200002](https://github.com/user-attachments/assets/84b0844b-55bb-4b2b-b38e-337b3bb27724)
+
 ### Skills
 Although it may seem basic, one of the skills I learned while making the MVP was actually patience. I really needed patience while making the MVP, I learned to continue despite my multiple fails while making the accordion. I took longer than I had hoped making the gallery and accordion in Part A however that taught me to be patient and get less frustrated, double checking where I may have made a mistake and fixed it.
 
