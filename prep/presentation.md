@@ -1,16 +1,18 @@
 # Presentation Plan
 
 ## Hook
-* 
+*
 
 ## Product
-* 
-
+* demo my website
+  * part A+B
 ## Process
-* 
+ * Pat B
+ * Wireframe
 
 ## Conclusion
-* 
+* Take aways
+* Summarize
 
 <!-- EXAMPLE
 
