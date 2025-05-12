@@ -1,18 +1,23 @@
 # Presentation Plan
 
 ## Hook
-*
+* ask a would you rather with architect
 
 ## Product
 * demo my website
   * part A+B
 ## Process
- * Pat B
+ * Part B
+   * I wanted an innovation to help architects, and I used existing technology such as VR and BIM.
  * Wireframe
+   * When making my wireframe I mostly thought of ways to incorporate my tool, which was a CSS grid.
 
 ## Conclusion
-* Take aways
+* Takeaways
+  * Time Management
 * Summarize
+  * summarize the part B and the overall topic of architecture
+
 
 <!-- EXAMPLE
 
