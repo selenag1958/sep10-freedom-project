@@ -1,7 +1,10 @@
 # Presentation Plan
 
 ## Hook
-* ask a would you rather with architect
+* play a small game of would you rather
+  * summer or sring
+  * city or town
+  * old architect or new architect
 
 ## Product
 * demo my website
@@ -11,10 +14,11 @@
    * I wanted an innovation to help architects, and I used existing technology such as VR and BIM.
  * Wireframe
    * When making my wireframe I mostly thought of ways to incorporate my tool, which was a CSS grid.
+   * format of CSS and how the grid-items were going to be filled.
 
 ## Conclusion
 * Takeaways
-  * Time Management
+  * Using and learning how to use the CSS grid helped me be more organized, and signigicantly helped when making the wireframe.
 * Summarize
   * summarize the part B and the overall topic of architecture
 
