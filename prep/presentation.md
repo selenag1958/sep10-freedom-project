@@ -18,7 +18,7 @@
 
 ## Conclusion
 * Takeaways
-  * Using and learning how to use the CSS grid helped me be more organized, and signigicantly helped when making the wireframe.
+  * Using and learning how to use the CSS grid helped me be more organized, and significantly helped when making the wireframe.
 * Summarize
   * summarize the part B and the overall topic of architecture
 
