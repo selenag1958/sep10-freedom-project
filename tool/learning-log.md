@@ -1,15 +1,10 @@
 # Tool Learning Log
 
-<<<<<<< HEAD
-## Tool: **CSSGrid**
-=======
-## Tool: **CSS Grid**
->>>>>>> 57fb36fa62403c8e7b3bbfdc9c32512f1dfa5c71
 
----
+## Tool: **CSSGrid**
+
 
 ### 3/8/25:
-<<<<<<< HEAD
 * Since I already have a small introduction to grids and what I have been learning in bootstrap using css grid properties I want to try making a template similar to one I saw in canva by code.
 
 Canva Template:
@@ -46,9 +41,6 @@ Canva Template:
   ##### Column Gap:
   ![Column Gap](https://github.com/user-attachments/assets/d5d969e5-dc87-4140-9dba-32b72a17809c)
 
-<<<<<<< HEAD
-<!--
-=======
   
    ```css
    .container {
