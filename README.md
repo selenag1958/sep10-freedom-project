@@ -19,12 +19,10 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **C
 * Jobs : Helps architect shorten the amount of time working on a design ( they will be able to sleep the necessary hours needed)
 * Individual : Allow architects to have more time for friends,family, and their health
 * Individual : Allow architects to have more time for friends,family, and their health
-* I.N.K may not be as helpful for people who aren't able to be in a long time for a long time for medical reasons.
-* I.N.K may not be as helpful for people who aren't able to be in a long time for a long time for medical reasons.
 
 ##### CONS
-* 
-
+* I.N.K may not be as helpful for people who aren't able to be in a long time for a long time for medical reasons.
+* I.N.K may not be as helpful for people who aren't able to be in a long time for a long time for medical reasons.
 
 ## Blog
 Below you will find my blog about how I made my project.
