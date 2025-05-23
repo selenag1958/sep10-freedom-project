@@ -1,22 +1,27 @@
 # SEP10 Freedom Project
-by **X**
+by **Selena Gonzalez**
 
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **X**. 
+For my project, I chose the topic of **Architecture**. 
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make my website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **CSS Gird** in order to help me make my website.
 
 ## Links
 
-[Product]()
+[Product](selenag1958.github.io./sep10-freedom-project)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/11rqnP3qB_3-h0Z09dT7C7QXPyjVhU-lpl0GudB9D8qI/edit?usp=sharing)
 
 ## Implications
 ##### PROS
-* 
+* Jobs : Helps architect shorten the amount of time working on a design ( they will be able to sleep the necessary hours needed)
+* Individual : Allow architects to have more time for friends,family, and their health
+* Individual : Allow architects to have more time for friends,family, and their health
+* I.N.K may not be as helpful for people who aren't able to be in a long time for a long time for medical reasons.
+* I.N.K may not be as helpful for people who aren't able to be in a long time for a long time for medical reasons.
+
 ##### CONS
 * 
 
