@@ -12,6 +12,7 @@ As it is May we are in the last steps of the engineering design process which is
 Overall this project taught me many skills such as creativity and organization. This project taught me creativity because one of the main focuses was thinking of how technology can be connected to our topic and create a possible future innovation. It taught me organization because I had to be organized with my code in order to find each section and bug that may have affected my bug.
 
 ### In Class Presentation
+[Project-Slides](https://docs.google.com/presentation/d/11rqnP3qB_3-h0Z09dT7C7QXPyjVhU-lpl0GudB9D8qI/edit?usp=sharing)
 ##### Takeaway
 I was one of the last people to present in class, my presentation focused more on my idea for part b which was a software called I.N.K to help architects design quicker and easier, as well as how I incorporated my tool css grid into my wireframe and project. My takeaway for this presentation is to practice speaking better. I was able to speak to the audience, making eye contact, and speaking at a reasonable volume. However I am concerned I may have spoken too fast, and about the few times I stumbled over my words.
 
